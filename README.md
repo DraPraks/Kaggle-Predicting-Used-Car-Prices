@@ -1,5 +1,9 @@
-# XGBoost Regressor with RandomizedSearchCV (GPU-Accelerated)
+# XGBoost Regressor with RandomizedSearchCV (GPU-Accelerated) & Autogluon Regressor (GPU-Accelerated)
 ## This model was trained on an NVIDIA A100 GPU
+**Special thanks to Aldin Risa for his contribution**
+https://www.linkedin.com/in/drapraks/
+https://www.linkedin.com/in/aldin-risa-304655299/
+
 This repository contains an implementation of an XGBoost regression model trained using RandomizedSearchCV for hyperparameter tuning. The model utilizes GPU acceleration for faster training and cross-validation. The dataset is related to car prices, and the task is to predict the price of a car based on its features.
 
 ## Table of Contents
